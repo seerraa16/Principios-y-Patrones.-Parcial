@@ -1,3 +1,0 @@
-Media: 3.0
-Mediana: 3
-Varianza: 2.0
